@@ -1,0 +1,29 @@
+172.21.125.22
+docker run -d --restart=unless-stopped -v /etc/alist:/opt/alist/data -p 5244:5244 -e PUID=0 -e PGID=0 -e UMASK=022 --name="alist" xhofe/alist:latest
+
+
+./alist admin set 77616211
+
+docker run -d -p 2389:80 --restart always --name subweb careywong/subweb:latest
+
+
+casaos-uninstall
+
+sudo -i   赋予权限
+
+/home/lijunyi/ChatGPT-Next-Web
+
+cd /root//home/lijunyi/ChatGPT-Next-Web
+
+rm -rf /root//home/lijunyi/ChatGPT-Next-Web
+
+
+docker run -d \
+  --network host \
+  --restart unless-stopped \
+  --volume $PWD/:/etc/sing-box/ \
+  --cap-add NET_ADMIN \
+  --device /dev/net/tun
+  gzxhwq/sing-box:git
+
+netsh interface portproxy add v4tov4 listenport=9090 listenaddress=0.0.0.0 connectport=9090 connectaddress=172.21.125.22
