@@ -3,11 +3,13 @@ payload:
   - DOMAIN-KEYWORD, wogg
   - DOMAIN-SUFFIX,wogg.link
   - DOMAIN-SUFFIX,wogg.xyz
+  - DOMAIN-SUFFIX,wogg.net
   - DOMAIN-SUFFIX, xxooo.cf
 #玩偶表哥（直连）
   - DOMAIN-KEYWORD, wobge.run
 #小纸条（直连）
   - DOMAIN-SUFFIX,gitcafe.net
+  - DOMAIN-SUFFIX,ali.gitcafe.ink
 #jojo（直连）
   - DOMAIN-SUFFIX,jiohub.top
 #阿里小站（直连）
@@ -19,10 +21,10 @@ payload:
 #厂长资源（直连）
   - DOMAIN-KEYWORD, czzy
   - DOMAIN-KEYWORD, czys
-  - DOMAIN-SUFFIX,czzy88.com
-  - DOMAIN-SUFFIX,czzy22.com
-  - DOMAIN-SUFFIX,czzy66.com
-  - DOMAIN-SUFFIX,cz233.com
+  - DOMAIN-SUFFIX,cz01.vip
+  - DOMAIN-SUFFIX,czzy.site
+  - DOMAIN-SUFFIX,czzy.top
+  - DOMAIN-SUFFIX,czys.pro
   - DOMAIN-SUFFIX, czys.top
   - DOMAIN-SUFFIX, czzy77.com
 #在线之家（直连）
