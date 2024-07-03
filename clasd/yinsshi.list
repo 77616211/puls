@@ -1,4 +1,4 @@
-#IP-CIDR: 9
+#IP-CIDR（直连）
 IP-CIDR,141.101.122.122/32,no-resolve
 IP-CIDR,172.64.129.234/32,no-resolve
 IP-CIDR,104.16.123.96/32,no-resolve
