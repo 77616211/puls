@@ -7,6 +7,10 @@ payload:
   - DOMAIN-SUFFIX, xxooo.cf
 #玩偶表哥（直连）
   - DOMAIN-KEYWORD, wobge.run
+  - DOMAIN-SUFFIX,wobge.run.goorm.io
+  - DOMAIN-SUFFIX,wobge.run.goorm.app
+  - DOMAIN-SUFFIX,wobge.run.goorm.app
+  - DOMAIN-SUFFIX,wobge.run.goorm.site
 #小纸条（直连）
   - DOMAIN-SUFFIX,gitcafe.net
   - DOMAIN-SUFFIX,ali.gitcafe.ink
