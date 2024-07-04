@@ -45,7 +45,7 @@ sniffer:
 proxy-providers:
   myproxy:
     type: http
-    url: https://example.com # 粘贴 Proxy Provider Converter 提供的链接
+    url: https://a.ppconverter.eu.org/api/convert?url=https%3A%2F%2F391f000f.epeius-66t.pages.dev%2F77616211%3Fclash&target=clash
     interval: 172800
     path: ./myproxy.yaml
     health-check:
