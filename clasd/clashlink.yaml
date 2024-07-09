@@ -3,7 +3,7 @@ proxy-providers:
   🛫 我的机场 1:
     type: http
     # 机场订阅链接，使用 Clash 链接
-    url: "https://example.com/xxx/xxx&flag=clash"
+    url: "https://epeius.bgogo.cn/77616211?clash"
     path: ./proxies/airport1.yaml
     interval: 86400
     # 初步筛选需要的节点，可有效减轻路由器压力，支持正则表达式，不筛选可删除此配置项
